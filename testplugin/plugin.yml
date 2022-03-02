@@ -1,0 +1,6 @@
+---
+name: 
+version: 0.0.1
+main: Desktop\testplugin\Main
+api: 4.2.1
+...
